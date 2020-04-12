@@ -17,3 +17,5 @@ fields:
 - type: datetime
   name: last_modified_at
   label: last_modified_at
+pages:
+- _posts/app-xaml-one-file-to-rule-them-all.md

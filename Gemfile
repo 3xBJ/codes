@@ -1,7 +1,12 @@
 source "https://rubygems.org"
-gem 'jekyll'
-gem 'github-pages'
+gem "jekyll-theme-hydeout", "~> 4.1"
+gem "jekyll", "~> 3.8"
+
 group :jekyll_plugins do
-	gem 'jekyll-menus'
+	gem "jekyll-gist"
+	gem "jekyll-paginate"
+	gem "jekyll-feed"
+	gem "jekyll-menus"
 end
-gemspec
+
+gem 'github-pages'

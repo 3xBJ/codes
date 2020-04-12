@@ -10,7 +10,7 @@ last_modified_at:
 ---
 ### Intro
 
-**App.xaml** is your application main file and is automatically created by visual studio. It define what your app will do when starded, suspended, onbackground, etc.
+**App.xaml** is your application main file and is automatically created. It define what your app will do when starded, suspended, onbackground, etc.
 
 When created, the file look something like this
 
